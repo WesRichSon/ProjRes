@@ -8,6 +8,10 @@ void setup() {
   int result = myFunction(2, 3);
   Serial.begin(9800);
   Serial.println("Hello, World! :D");
+  Serial.println("Hello, World! :D");
+  Serial.println("Hello, World! :D");
+  Serial.println("Hello, World! :D");
+  Serial.println("Hello, World! :D");
   
 }
 
